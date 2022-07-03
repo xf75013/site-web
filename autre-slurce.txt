@@ -1,0 +1,1 @@
+on trouvera un exemple de création et déploiement à cette adresse : https://github.com/maiwann/folio/tree/master/jekyll_folio2017
